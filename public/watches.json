@@ -1,0 +1,104 @@
+{
+  "watches": [
+    {
+      "brand": "Rolex",
+      "model": "Submariner",
+      "price": 10000,
+      "movement": "Automatic",
+      "case_material": "Stainless Steel",
+      "water_resistance": "300 meters",
+      "features": ["Date Display", "Luminous Hands", "Screw-down Crown"],
+      "image_url": "https://example.com/rolex_submariner.jpg"
+    },
+    {
+      "brand": "Omega",
+      "model": "Seamaster",
+      "price": 8000,
+      "movement": "Automatic",
+      "case_material": "Titanium",
+      "water_resistance": "600 meters",
+      "features": ["Chronometer", "Helium Escape Valve"],
+      "image_url": "https://example.com/omega_seamaster.jpg"
+    },
+    {
+      "brand": "Tag Heuer",
+      "model": "Carrera",
+      "price": 6000,
+      "movement": "Automatic",
+      "case_material": "Rose Gold",
+      "water_resistance": "100 meters",
+      "features": ["Chronograph", "Date Display"],
+      "image_url": "https://example.com/tag_heuer_carrera.jpg"
+    },
+    {
+      "brand": "Patek Philippe",
+      "model": "Nautilus",
+      "price": 25000,
+      "movement": "Automatic",
+      "case_material": "White Gold",
+      "water_resistance": "120 meters",
+      "features": ["Moon Phase", "Power Reserve Indicator"],
+      "image_url": "https://example.com/patek_philippe_nautilus.jpg"
+    },
+    {
+      "brand": "Audemars Piguet",
+      "model": "Royal Oak",
+      "price": 18000,
+      "movement": "Automatic",
+      "case_material": "Steel",
+      "water_resistance": "50 meters",
+      "features": ["Perpetual Calendar", "Minute Repeater"],
+      "image_url": "https://example.com/audemars_piguet_royal_oak.jpg"
+    },
+    {
+      "brand": "Cartier",
+      "model": "Santos",
+      "price": 9000,
+      "movement": "Automatic",
+      "case_material": "Gold",
+      "water_resistance": "100 meters",
+      "features": ["Sapphire Crystal", "Blue Hands"],
+      "image_url": "https://example.com/cartier_santos.jpg"
+    },
+    {
+      "brand": "Tissot",
+      "model": "Le Locle",
+      "price": 500,
+      "movement": "Automatic",
+      "case_material": "Stainless Steel",
+      "water_resistance": "30 meters",
+      "features": ["Skeleton Back", "Date Display"],
+      "image_url": "https://example.com/tissot_le_locle.jpg"
+    },
+    {
+      "brand": "Seiko",
+      "model": "Prospex",
+      "price": 300,
+      "movement": "Automatic",
+      "case_material": "Stainless Steel",
+      "water_resistance": "200 meters",
+      "features": ["Diver's Watch", "Rotating Bezel"],
+      "image_url": "https://example.com/seiko_prospex.jpg"
+    },
+    {
+      "brand": "Citizen",
+      "model": "Eco-Drive",
+      "price": 200,
+      "movement": "Solar Powered",
+      "case_material": "Titanium",
+      "water_resistance": "100 meters",
+      "features": ["Solar Charging", "Radio-Controlled"],
+      "image_url": "https://example.com/citizen_eco_drive.jpg"
+    },
+    {
+      "brand": "Fossil",
+      "model": "Grant",
+      "price": 150,
+      "movement": "Quartz",
+      "case_material": "Stainless Steel",
+      "water_resistance": "50 meters",
+      "features": ["Chronograph", "Date Display"],
+      "image_url": "https://example.com/fossil_grant.jpg"
+    }
+  ]
+}
